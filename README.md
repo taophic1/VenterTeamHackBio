@@ -4,6 +4,7 @@ What HackBio is About: The team is dedicated to helping over 1 million life scie
 The Team is made up of highly prestigious personels that are willing to help scientists. The Instructors Include: Ambrose O. George, Winfred N. Gatua,Melyssa Minto,Niyi Adelakun. The Mentors are made up of the following: Enejoh O. Ojochenemi (PhD), Umar Ahmad (PhD),Gerald Mboowa (PhD),Sarah Carl (PhD),Halima Moncrieffe (PhD),Kolawole Oladipo.
 
 
-##Contributors
+## Contributors
+
 SAMUEL OLUWAFEMI EGBUWALO
-![undefined - Imgur](https://user-images.githubusercontent.com/85350295/128170734-0ef98134-7c03-4f0e-af03-e9bd549862b1.png)
+![undefined - Imgur](https://user-images.githubusercontent.com/85350295/128170734-0ef98134-7c03-4f0e-af03-e9bd549862b1.png) 

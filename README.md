@@ -1,13 +1,10 @@
-# VenterTeamHackBio
-HackBio Internship Program
+- 👋 Hi, I’m @Sumaira0
+- 👀 I’m interested in ...
+- 🌱 I’m currently learning ...
+- 💞️ I’m looking to collaborate on ...
+- 📫 How to reach me ...
 
-What HackBio is About: 
-
-The team is dedicated to helping over 1 million life scientists globally to effectively harness the potentials of the genomic revolution using bioinformatics. The team believe this is the future of biotech/healthcare jobs and we are excited to help you achieve your career dreams by building global learning solutions to upgrade your skills.
-The Team is made up of highly prestigious personels that are willing to help scientists. The Instructors Include: Ambrose O. George, Winfred N. Gatua,Melyssa Minto,Niyi Adelakun. The Mentors are made up of the following: Enejoh O. Ojochenemi (PhD), Umar Ahmad (PhD),Gerald Mboowa (PhD),Sarah Carl (PhD),Halima Moncrieffe (PhD),Kolawole Oladipo.
-
-
-## Contributors
-
-SAMUEL OLUWAFEMI EGBUWALO
-<img src="https://user-images.githubusercontent.com/85350295/128185423-0c455b70-951e-4921-acd9-d42e2fd5ba2d.jpg" width = "200" height ="200" >
+<!---
+Sumaira0/Sumaira0 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You can click the Preview link to take a look at your changes.
+--->

@@ -2,7 +2,7 @@
 a = "kshitij gaikwad"
 b = "kshitijeaoff@gmail.com"
 c = "@kg"
-d = "drug development"
+d = "drug development and genomics"
 e = "@kshitij31"
 cat(a,b,c,d,e)
 print("hamming distance")

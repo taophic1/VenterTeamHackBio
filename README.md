@@ -10,5 +10,4 @@ The Team is made up of highly prestigious personels that are willing to help sci
 ## Contributors
 
 SAMUEL OLUWAFEMI EGBUWALO
-<img src="![20210804_150054](https://user-images.githubusercontent.com/85350295/128185423-0c455b70-951e-4921-acd9-d42e2fd5ba2d.jpg)
-" width = "300" height ="200" >
+<img src="https://user-images.githubusercontent.com/85350295/128185423-0c455b70-951e-4921-acd9-d42e2fd5ba2d.jpg" width = "200" height ="200" >

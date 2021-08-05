@@ -1,11 +1,29 @@
+def hamming_distance(myusername, mytwitter_handle):
+    # Start with a distance of zero, and count up
+    distance = 0
+    # Loop over the indices of the string
+    L = len(myusername)
+    for i in range(L):
+        # Add 1 to the distance if these two characters are not equal
+        if myusername[i] != mytwitter_handle[i]:
+            distance += 1
+    # Return the final count of differences
+    return distance
 
-# VenterTeamHackBio
-HackBio Internship Program
-What HackBio is About: The team is dedicated to helping over 1 million life scientists globally to effectively harness the potentials of the genomic revolution using bioinformatics. The team believe this is the future of biotech/healthcare jobs and we are excited to help you achieve your career dreams by building global learning solutions to upgrade your skills.
-The Team is made up of highly prestigious personels that are willing to help scientists. The Instructors Include: Ambrose O. George, Winfred N. Gatua,Melyssa Minto,Niyi Adelakun. The Mentors are made up of the following: Enejoh O. Ojochenemi (PhD), Umar Ahmad (PhD),Gerald Mboowa (PhD),Sarah Carl (PhD),Halima Moncrieffe (PhD),Kolawole
 
 
-## Contributors
 
-SAMUEL OLUWAFEMI EGBUWALO
-<img src="https://user-images.githubusercontent.com/85350295/128229951-81d08c2f-6ef4-4145-a35b-ab87e06eca57.jpg" width = "200" height ="200" >
+
+
+
+
+def personal_details():
+ name, email,slackusername,biostack,twitter_handle, = "Taofeek","tola.taofeek@gmail.com","@Taophic","drug developement and genomics","@taophic1"
+
+ example_dist = hamming_distance("@Taophic", "@taophic1")
+
+ print(example_dist)
+ print("name: {}\nemail: {}\nslack_username: {}\nbiostack: {}\ntwitter_handle:{}\nhamming_distance:{}".format(name, email, slackusername,biostack,twitter_handle,example_dist))
+
+
+personal_details()
